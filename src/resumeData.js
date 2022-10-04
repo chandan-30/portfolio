@@ -1,63 +1,57 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    //"imagebaseurl":"",
+    "name": "Sai Chandan Yata",
+    "role": "Full Stack Developer",
+    "linkedinId":"sai-chandan-yata-4a50b01a2",
+    "roleDescription": "I like dabbling in various parts of fullstack development, smart contract development and like to learn about new technologies, simply play games or sports in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/sai-chandan-yata-4a50b01a2/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/chandan-30",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"Detail-oriented, organized and meticulous employee. Works at a fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success.",
     "address":"India",
-    "website":"https://rbhatia46.github.io",
+    //"website":"",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Kaktiya Institue Of Technology And Science, Warangal",
+        "specialization":"Information Technology",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2021",
+        "CGPA":"7.86"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"ABV Junior College",
+        "specialization":"M.P.C",
+        "MonthOfPassing":"March",
+        "YearOfPassing":"2016",
+        "CGPA":"9.6"
+      },
+      {
+        "UniversityName":"St. Mary's High School",
+        "specialization":"",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2021",
+        "CGPA":"10"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Accenture",
+        "role":"Software Engineer",
+        "MonthOfJoining":"June",
+        "YearOfJoining":"2021",
+        "Achievements":"Ace award & Promotion"
       }
     ],
-    "skillsDescription":"Your skills here",
+    //"skillsDescription":"Your skills here",
     "skills":[
       {
         "skillname":"HTML5"
@@ -67,40 +61,54 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
-      }
+      },
+      {
+        "skillname":"Nodejs"
+      },
+      {
+        "skillname":"Python"
+      },
+      {
+        "skillname":"SQL"
+      },
+      {
+        "skillname":"Solidity"
+      },
+      {
+        "skillname":"JQuery"
+      },
+      {
+        "skillname":"Bootstrap"
+      },
+
     ],
     "portfolio":[
       {
         "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "description":"Team-Splitter",
+        "imgurl":"images/portfolio/team-splitter.png"
       },
       {
         "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "description":"Task-Runner",
+        "imgurl":"images/portfolio/TT.png"
       },
       {
         "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "description":"Dapp",  
+        "imgurl":"images/portfolio/Dapp.png"
       }
     ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
+    // "testimonials":[
+    //   {
+    //     "description":"This is a sample testimonial",
+    //     "name":"Some technical guy"
+    //   },
+    //   {
+    //     "description":"This is a sample testimonial",
+    //     "name":"Some technical guy"
+    //   }
+    // ]
   }
   
   export default resumeData
