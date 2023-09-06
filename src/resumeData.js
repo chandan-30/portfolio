@@ -48,55 +48,83 @@ let resumeData = {
         "role":"Software Engineer",
         "MonthOfJoining":"June",
         "YearOfJoining":"2021",
-        "Achievements":"Ace award & Promotion"
+        "MonthOfLeaving": "October",
+        "YearOfLeaving": "2022",
+        "AchievementsOne":"Worked with development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance.",
+        "AchievementsTwo": "Updated old code bases to modern development standards, improving functionality.",
+        "AchievementsThree": "Provided guidance and mentored less-experienced staff members.",
+        "AchievementsFour": "Collaborated in team-based and agile environment to accomplish objectives in measured and open manner.",
+        "AchievementsFive": "Received recognitions and ace award within 6 months of employment.",
+        "AchievementsSix":"Ace award & Promotion."
       }
     ],
     //"skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"JavaScript && HTML5"
       },
       {
-        "skillname":"CSS"
+        "skillname":"CSS && SCSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Reactjs && Redux"
       },
       {
-        "skillname":"Nodejs"
+        "skillname":"NextJS && Nodejs"
       },
       {
-        "skillname":"Python"
+        "skillname":"Python && PHP"
       },
       {
         "skillname":"SQL"
       },
       {
-        "skillname":"Solidity"
+        "skillname":"Wordpress Core, Plugin and Theme development"
       },
       {
-        "skillname":"JQuery"
+        "skillname":"JQuery && REST API"
       },
       {
-        "skillname":"Bootstrap"
+        "skillname":"Bootstrap && Tailwind && Material UI"
       },
 
     ],
     "portfolio":[
       {
         "name":"project1",
-        "description":"Team-Splitter",
-        "imgurl":"images/portfolio/team-splitter.png"
+        "description":"Form Builder",
+        "imgurl":"images/portfolio/form-builder.png",
+        "url": "https://chandan-30.github.io/Form-Builder/"
       },
       {
         "name":"project2",
-        "description":"Task-Runner",
-        "imgurl":"images/portfolio/TT.png"
+        "description":"React Redux To-Do App",
+        "imgurl":"images/To-Do-redux-app.png",
+        "url": "https://storied-horse-05e6d6.netlify.app/"
       },
       {
         "name":"project3",
+        "description":"Marvel Developers page clone",
+        "imgurl":"images/mdpc.png",
+        "url": "https://melodic-marshmallow-24fbcf.netlify.app/"
+      },
+      {
+        "name":"project4",
+        "description":"Task-Runner",
+        "imgurl":"images/portfolio/TT.png",
+        "url": "https://chandan-30.github.io/task-runner/"
+      },
+      {
+        "name":"project5",
         "description":"Dapp",  
-        "imgurl":"images/portfolio/Dapp.png"
+        "imgurl":"images/portfolio/Dapp.png",
+        "url": "https://github.com/chandan-30/MoodDiary-Dapp"
+      },
+      {
+        "name":"More Projects",
+        "description":"More...",  
+        "imgurl":"images/more.png",
+        "url": "https://docs.google.com/document/d/18AKtgWANp8rjeaKe8y_739jv-45ApvblCUJVVH0fMmU/edit#heading=h.jhv78pp9wtzd",
       }
     ],
     // "testimonials":[

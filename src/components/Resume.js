@@ -47,9 +47,25 @@ export default  class Resume extends Component {
                           <h3>{item.CompanyName}</h3>
                           <p className="info">
                           {item.role}
-                          <span>&bull;</span> <em className="date">{item.MonthOfJoining} {item.YearOfJoining}</em></p>
+                          <span>&bull;</span> <em className="date">{item.MonthOfJoining} {item.YearOfJoining}</em>
+                          <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
                           <p className="info">
-                          <b>{item.Achievements}</b>
+                            <b>{item.AchievementsOne}</b>
+                          </p>
+                          <p className="info">
+                            <b>{item.AchievementsTwo}</b>
+                          </p>
+                          <p className="info">
+                            <b>{item.AchievementsThree}</b>
+                          </p>
+                          <p className="info">
+                            <b>{item.AchievementsFour}</b>
+                          </p>
+                          <p className="info">
+                            <b>{item.AchievementsFive}</b>
+                          </p>
+                          <p className="info"> 
+                            <b>{item.AchievementsSix}</b>
                           </p>
                        </div>
 
