@@ -56,6 +56,19 @@ let resumeData = {
         "AchievementsFour": "Collaborated in team-based and agile environment to accomplish objectives in measured and open manner.",
         "AchievementsFive": "Received recognitions and ace award within 6 months of employment.",
         "AchievementsSix":"Ace award & Promotion."
+      },
+      {
+        "CompanyName":"Brainstorm Force",
+        "role":"Software Engineer",
+        "MonthOfJoining":"January",
+        "YearOfJoining":"2023",
+        "MonthOfLeaving": "August",
+        "YearOfLeaving": "2023",
+        "AchievementsOne":"Developed and maintained wordpress plugins in collaboration with cross-functional teams.",
+        "AchievementsTwo": "Collaborated with designers, product managers, and QA engineers to ensure successful project outcomes.",
+        "AchievementsThree": "Engaged in close collaboration with fellow plugin developers, seamlessly integrating their solutions with our plugin’s extensive user base. This synergy resulted in notable enhancements to both their user engagement and outreach.",
+        "AchievementsFour": "Used ReactJS, Wordpress Core and PHP for plugin and theme developments.",
+        "AchievementsFive": "Received recognition within 3 months of employment.",
       }
     ],
     //"skillsDescription":"Your skills here",
