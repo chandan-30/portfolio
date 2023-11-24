@@ -105,7 +105,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"project1",
-        "description":"Form Builder",
+        "description":"S-Book",
         "imgurl":"images/portfolio/s-book.png",
         "url": "https://github.com/chandan-30/s-book#demo"
       },
