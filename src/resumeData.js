@@ -1,9 +1,14 @@
+let _desc = "Innovative Frontend heavy-Fullstack developer, dedicated to crafting robust solutions with a user-centric focus. Profcient in " +
+             "JavaScript, ReactJS, Redux, NextJS, PHP, Python, SQL, and more, extensive technical expertise is brought to various projects. " +
+             "From elevating WordPress plugins to developing feature-rich web applications, fervent commitment exists to pushing the boundaries of technology."
+
 let resumeData = {
     //"imagebaseurl":"",
     "name": "Sai Chandan Yata",
     "role": "Full Stack Developer",
+    "email": "saichandhan.yata44@gmail.com",
     "linkedinId":"sai-chandan-yata-4a50b01a2",
-    "roleDescription": "I like dabbling in various parts of fullstack development, smart contract development and like to learn about new technologies, simply play games or sports in my free time.",
+    "roleDescription": "I like dabbling in various parts of fullstack development and like to learn about new technologies, simply play games or sports in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -16,8 +21,8 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"Detail-oriented, organized and meticulous employee. Works at a fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success.",
-    "address":"India",
+    "aboutme": _desc,
+    "address":"Jangaon, Telangana, India, 506167.",
     //"website":"",
     "education":[
       {
@@ -44,32 +49,32 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Accenture",
-        "role":"Software Engineer",
-        "MonthOfJoining":"June",
-        "YearOfJoining":"2021",
-        "MonthOfLeaving": "October",
-        "YearOfLeaving": "2022",
-        "AchievementsOne":"Worked with development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance.",
-        "AchievementsTwo": "Updated old code bases to modern development standards, improving functionality.",
-        "AchievementsThree": "Provided guidance and mentored less-experienced staff members.",
-        "AchievementsFour": "Collaborated in team-based and agile environment to accomplish objectives in measured and open manner.",
-        "AchievementsFive": "Received recognitions and ace award within 6 months of employment.",
-        "AchievementsSix":"Ace award & Promotion."
-      },
-      {
         "CompanyName":"Brainstorm Force",
         "role":"Software Engineer",
         "MonthOfJoining":"January",
         "YearOfJoining":"2023",
         "MonthOfLeaving": "August",
         "YearOfLeaving": "2023",
-        "AchievementsOne":"Developed and maintained wordpress plugins in collaboration with cross-functional teams.",
-        "AchievementsTwo": "Collaborated with designers, product managers, and QA engineers to ensure successful project outcomes.",
-        "AchievementsThree": "Engaged in close collaboration with fellow plugin developers, seamlessly integrating their solutions with our plugin’s extensive user base. This synergy resulted in notable enhancements to both their user engagement and outreach.",
-        "AchievementsFour": "Used ReactJS, Wordpress Core and PHP for plugin and theme developments.",
-        "AchievementsFive": "Received recognition within 3 months of employment.",
-      }
+        "AchievementsOne":"• Developed and maintained WordPress plugins to elevate functionality and user engagement, contributing to increased profts by 15%.",
+        "AchievementsTwo": "• Integrated a new product with existing product, resulting in a signifcant jump in user base and profts for the company.",
+        "AchievementsThree": "• Utilized ReactJS, Redux, SQL, WordPress Core, and PHP for plugin and theme developments.",
+        "AchievementsFour": " •Identifed and resolved issues through troubleshooting, addressing bugs in WordPress plugins to enhance overall user experience. ",
+        "AchievementsFive": "• Played a key role in adding and sustaining new features within the company's products by demonstrating effective communication and teamwork skills within the team, facilitating " +
+                            "growth and positive business outcomes",
+      },
+      {
+        "CompanyName":"Accenture",
+        "role":"Software Engineer",
+        "MonthOfJoining":"June",
+        "YearOfJoining":"2021",
+        "MonthOfLeaving": "October",
+        "YearOfLeaving": "2022",
+        "AchievementsOne":"• Developed and maintained high‑performing user interface web services, surpassing client expectations in functionality and use experience.",
+        "AchievementsTwo": "• Enhanced page load speeds by 80% and SEO by 25%, leading to improved user experience and cost reduction.",
+        "AchievementsThree": "• Received recognition for outstanding contributions, earning a promotion and the prestigious Ace Award within a year.",
+        "AchievementsFour": "• Utilized troubleshooting and problem‑solving skills to identify and resolve issues, addressing bugs in the client's web application to improve the overall user experience. ",
+        "AchievementsFive": "• Profciently utilized JavaScript, JQuery, AEM, SASS, HTML, CSS, Webpack, and Babel to create tailored web applications meeting client needs. ",
+      },
     ],
     //"skillsDescription":"Your skills here",
     "skills":[
