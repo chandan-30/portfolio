@@ -69,7 +69,7 @@ let resumeData = {
         "YearOfJoining":"2021",
         "MonthOfLeaving": "October",
         "YearOfLeaving": "2022",
-        "AchievementsOne":"• Developed and maintained high‑performing user interface web services, surpassing client expectations in functionality and use experience.",
+        "AchievementsOne":"• Developed and maintained high‑performing user interface web services, surpassing client expectations in functionality and user experience.",
         "AchievementsTwo": "• Enhanced page load speeds by 80% and SEO by 25%, leading to improved user experience and cost reduction.",
         "AchievementsThree": "• Received recognition for outstanding contributions, earning a promotion and the prestigious Ace Award within a year.",
         "AchievementsFour": "• Utilized troubleshooting and problem‑solving skills to identify and resolve issues, addressing bugs in the client's web application to improve the overall user experience. ",
@@ -79,67 +79,73 @@ let resumeData = {
     //"skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"JavaScript && HTML5"
+        "skillname":"JavaScript / HTML5"
       },
       {
-        "skillname":"CSS && SCSS"
+        "skillname":"CSS / SCSS"
       },
       {
-        "skillname":"Reactjs && Redux"
+        "skillname":"Reactjs / Redux"
       },
       {
-        "skillname":"NextJS && Nodejs"
+        "skillname":"NextJS / Nodejs / ExpressJS"
       },
       {
-        "skillname":"Python && PHP"
+        "skillname":"Python / PHP/ C# / .Net "
       },
       {
-        "skillname":"SQL"
+        "skillname":"SQL / MongoDB"
       },
       {
-        "skillname":"Wordpress Core, Plugin and Theme development"
+        "skillname":"Wordpress Core / Plugin development"
       },
       {
-        "skillname":"JQuery && REST API"
+        "skillname":"JQuery / REST API"
       },
       {
-        "skillname":"Bootstrap && Tailwind && Material UI"
+        "skillname":"Bootstrap / Tailwind / Material UI"
       },
 
     ],
     "portfolio":[
       {
         "name":"project1",
+        "description":"Project Management System",
+        "imgurl":"images/portfolio/PMS.png",
+        "url": "https://github.com/chandan-30/Project-Management-System?tab=readme-ov-file#live-demo"
+      },
+      {
+        "name":"project2",
         "description":"S-Book",
         "imgurl":"images/portfolio/s-book.png",
         "url": "https://github.com/chandan-30/s-book#demo"
       },
       {
-        "name":"project2",
+        "name":"project3",
         "description":"Form Builder",
         "imgurl":"images/portfolio/form-builder.png",
         "url": "https://chandan-30.github.io/Form-Builder/"
       },
       {
-        "name":"project3",
+        "name":"project4",
         "description":"React Redux To-Do App",
         "imgurl":"images/To-Do-redux-app.png",
         "url": "https://storied-horse-05e6d6.netlify.app/"
       },
       {
-        "name":"project4",
+        "name":"project5",
         "description":"Marvel Developers page clone",
         "imgurl":"images/mdpc.png",
         "url": "https://melodic-marshmallow-24fbcf.netlify.app/"
       },
       {
-        "name":"project5",
+        "name":"project6",
         "description":"Task-Runner",
         "imgurl":"images/portfolio/TT.png",
         "url": "https://chandan-30.github.io/task-runner/"
       },
       {
-        "name":"project6",
+        "name":"project7",
         "description":"Dapp",  
         "imgurl":"images/portfolio/Dapp.png",
         "url": "https://github.com/chandan-30/MoodDiary-Dapp"
