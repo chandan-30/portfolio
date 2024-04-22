@@ -91,16 +91,16 @@ let resumeData = {
         "skillname":"NextJS / Nodejs / ExpressJS"
       },
       {
-        "skillname":"Python / PHP/ C# / .Net "
+        "skillname":"Python / PHP "
       },
       {
         "skillname":"SQL / MongoDB"
       },
       {
-        "skillname":"Wordpress Core / Plugin development"
+        "skillname":"Wordpress Plugin development"
       },
       {
-        "skillname":"JQuery / REST API"
+        "skillname":"JQuery / REST API "
       },
       {
         "skillname":"Bootstrap / Tailwind / Material UI"
